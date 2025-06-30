@@ -181,3 +181,4 @@ predictButton.place(x=50, y=100)
 predictButton.config(font=font1)
 
 main.mainloop()
+#end of the program
